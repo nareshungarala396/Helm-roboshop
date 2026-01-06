@@ -1,0 +1,5 @@
+deployment:
+  imageRepo: nareshungarala/catalogue
+  imageVersion: v1
+service:
+  serviceport: 8080
