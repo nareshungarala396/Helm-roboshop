@@ -2,4 +2,4 @@ deployment:
   imageRepo: nareshungarala/mongodb
   imageVersion: v1
 service:
-  type: clusterIP
+  type: ClusterIP
